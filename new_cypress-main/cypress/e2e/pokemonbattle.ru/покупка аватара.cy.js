@@ -1,9 +1,3 @@
-
-
-
-
-
-
 describe('Покупка аватара', function () {
 it('Покупка аватара для тренера', function () {
 cy.visit('https://pokemonbattle.ru/');
