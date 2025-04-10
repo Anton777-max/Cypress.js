@@ -5,11 +5,10 @@
 
 
 describe('Покупка аватара', function () {
-
-    it('Покупка аватара для тренера', function () {
-        cy.visit('https://pokemonbattle.ru/');
-cy.get('#k_email').type('anton_ivanov1989god@mail.ru');
-cy.get('#k_password').type('odkKuznetsov14');
+it('Покупка аватара для тренера', function () {
+cy.visit('https://pokemonbattle.ru/');
+cy.get('#k_email').type('USER_LOGIN');
+cy.get('#k_password').type('USER_PASSWORD');
 cy.get('.MuiButton-root').click();
 cy.get('.header_card_trainer').click();
 cy.get('.k_mobile > :nth-child(5)').click();
