@@ -17,16 +17,16 @@
 ## Детали реализации
 
 1. baseUrl вынесен в переменные конфига
-![image]()
+![image](https://raw.githubusercontent.com/Anton777-max/Cypress.js/refs/heads/main/config.js.png)
 
 2. Применение хуков beforeEach и afterEach
-![image]()
+![image](https://raw.githubusercontent.com/Anton777-max/Cypress.js/refs/heads/main/locators.cy.js.png)
 
 3. Переменные данные для авторизации вынесены в отдельный файл
-![image]()
+![image](https://raw.githubusercontent.com/Anton777-max/Cypress.js/refs/heads/main/default_data.json.png)
 
 4. Каждая страница описана в формате объекта с локаторами
-![image]()
+![image](https://raw.githubusercontent.com/Anton777-max/Cypress.js/refs/heads/main/main_page.json.png)
 
 
 
