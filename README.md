@@ -29,10 +29,6 @@
 ![image](https://raw.githubusercontent.com/Anton777-max/Cypress.js/refs/heads/main/main_page.json.png)
 
 
-
-
-
-
 ## Автор
 
 Anton777-max ([Anton777-max](https://t.me/Anton_595))
